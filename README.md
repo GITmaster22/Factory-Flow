@@ -53,17 +53,17 @@ This project adheres to the [Contributor Covenant 1.4](http://contributor-covena
  By participating, you are expected to uphold this code. Please report unacceptable
  behavior to any of the project's core team at team@factoryflow.com.
 
-## Authors
+## ORIGINAL Authors
 
-Factory-Flow is a project of the [OpenJS Foundation](http://openjsf.com).
+Factory-Flow is a project of the www.lasermind.pt.
 
-It is maintained by:
+It is original Authors:
 
  * Nick O'Leary [@knolleary](http://twitter.com/knolleary)
  * Dave Conway-Jones [@ceejay](http://twitter.com/ceejay)
  * And many others...
 
 
-## Copyright and license
+## ORIGINAL Copyright and license
 
 Copyright OpenJS Foundation and other contributors, https://openjsf.com under [the Apache 2.0 license](LICENSE).
